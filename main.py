@@ -35,4 +35,5 @@ while game_is_one:
         ball.bounce_x()
 
 
+
 screen.exitonclick()
